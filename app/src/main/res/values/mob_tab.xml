@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ // Copyright 2015 by Honeywell International Inc.  All rights reserved.
+  ~ /******************************************************************************
+  ~ *   Created By      : e857363
+  ~ *   Created On      : 12/2/15 12:00 PM
+  ~ *******************************************************************************
+  -->
+
+<resources>
+    <bool name="portrait_only">true</bool>
+</resources>
